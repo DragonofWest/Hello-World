@@ -14,11 +14,9 @@ Intigration of python, visual studio code, and get hub.
 *Python 3.10.4 
 *Git / GitHub
 
-{Describe the programming language that you used}
-
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [GitHub](https://github.com/)
+* [Python](https://www.python.org/)
 
