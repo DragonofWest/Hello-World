@@ -4,15 +4,13 @@ This is a basic Hello World program.
 
 Intigration of python, visual studio code, and get hub.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Demo Video](https://youtu.be/pi4bZgG1NBs)
 
 # Development Environment
 
-*visual studio code
-*Python 3.10.4 
-*Git / GitHub
+* visual studio code
+* Python 3.10.4 
+* Git / GitHub
 
 # Useful Websites
 
